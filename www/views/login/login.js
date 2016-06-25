@@ -6,3 +6,4 @@ angular.module('App')
     templateUrl: 'views/login/avatorlist.html'
   });
 })
+// OK
